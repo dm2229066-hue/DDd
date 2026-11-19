@@ -1,0 +1,6 @@
+{
+  "name": "Smart Calculator",
+  "description": "Production-ready Android Smart Calculator application (Kotlin + Jetpack Compose + AdMob) with interactive live calculator, verification suite, and complete Android Studio source export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
